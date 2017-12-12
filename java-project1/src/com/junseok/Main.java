@@ -13,6 +13,7 @@ public class Main {
 
         System.out.println("Hello Diva 1111111");
         System.out.println("Hello Diva 22222222");
+        System.out.println("Hello Diva local Commit");
 
     }
 }
