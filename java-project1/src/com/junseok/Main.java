@@ -16,6 +16,8 @@ public class Main {
         System.out.println("Hello Diva local Commit");
 
         System.out.println("Hello Diva 33333333");
+        
+         System.out.println("Hello Diva Remote Commit");
 
     }
 }
