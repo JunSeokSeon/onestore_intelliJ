@@ -78,6 +78,13 @@ local.properties
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 
+# Check Style
+.idea/**/checkstyle-idea.xml
+.idea/**/misc.xml
+.idea/**/modules.xml
+.idea/**/vcs.xml
+.idea/artifacts/*.xml
+
 # Gradle:
 .idea/**/gradle.xml
 .idea/**/libraries
@@ -117,7 +124,7 @@ fabric.properties
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
-# *.iml
+*.iml
 # modules.xml
 # .idea/misc.xml
 # *.ipr
