@@ -11,7 +11,7 @@ public class Main {
 
         System.out.println("Hello Junseok");
 
-        System.out.println("Hello Diva HIHI");
+        System.out.println("Hello Diva HIHI MODIFY");
 
     }
 }
